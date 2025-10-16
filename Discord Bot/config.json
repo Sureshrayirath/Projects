@@ -1,0 +1,15 @@
+{
+  "token": "TOKEN_HERE",
+  "join_message": "I have joined to fix stuff \u00f0\u0178\u0152\u0178",
+  "owners": [
+    880027559373459457,
+    187519250297126912
+  ],
+  "prefix": [
+    ">"
+  ],
+  "activity": "`>chaman`",
+  "activity_type": "playing|watching|listening|competing",
+  "status_type": "online|idle|dnd",
+  "playing": "watching you"
+}
